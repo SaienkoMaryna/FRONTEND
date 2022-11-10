@@ -57,22 +57,5 @@ ul{
 h3{
    color: rgb(10, 1, 1)
 }
-.text3{
-   border: 2px solid grey;
-   width: 350px;
-   height: 500px;
-   padding: 5px;
-   box-shadow: 2px 2px 4px 2px grey;
-}
-body{
-    width: 150px;
-    height: 150px;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJgnafK1kGWZjOizE9EtEvTX8_0wMg81U4gxvLAwmI914XKJ_CgrfgyPA-3h54L4fYKqI&usqp=CAU');
-    background-size: 150px;
-    background-position: right top;
-    background-repeat: repeat-y;
-   
-
-}
 
     
