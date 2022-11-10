@@ -1,0 +1,78 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+.spisok{
+    color:brown;
+}
+#html{
+    font-size: 20px;
+    color: brown;
+    font-weight: bold ;
+}
+#css{
+    color: blue;
+    font-style: italic;
+}
+h2{
+    color: darkgreen;
+}
+.text1{
+    width: 50%;
+    line-height: 2;
+  }
+#php, #JavaScript{
+color: brown;
+font-weight: bold ;
+font-size: 20px;
+}  
+.perechen{
+    width: 50%; 
+}
+ul{
+    width: 100%;
+}
+.text2{
+    width: 50%;
+}
+#scen{
+    color: blue;
+    font-style: italic;
+}
+#php{
+    color: brown;
+    font-weight: bold ;
+    font-size: 20px;
+}
+#sms{
+    color: brown;
+    font-weight: bold ;
+    font-size: 20px;
+}
+#JS{
+    color: brown;
+    font-weight: bold ;
+    font-size: 20px;
+}
+h3{
+   color: rgb(10, 1, 1)
+}
+.text3{
+   border: 2px solid grey;
+   width: 350px;
+   height: 500px;
+   padding: 5px;
+   box-shadow: 2px 2px 4px 2px grey;
+}
+body{
+    width: 150px;
+    height: 150px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJgnafK1kGWZjOizE9EtEvTX8_0wMg81U4gxvLAwmI914XKJ_CgrfgyPA-3h54L4fYKqI&usqp=CAU');
+    background-size: 150px;
+    background-position: right top;
+    background-repeat: repeat-y;
+   
+
+}
+
+    
